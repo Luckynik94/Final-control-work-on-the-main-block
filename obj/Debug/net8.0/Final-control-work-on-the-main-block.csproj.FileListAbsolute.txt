@@ -1,0 +1,15 @@
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.exe
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.deps.json
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.runtimeconfig.json
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.dll
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\bin\Debug\net8.0\Final-control-work-on-the-main-block.pdb
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.AssemblyInfoInputs.cache
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.AssemblyInfo.cs
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.csproj.CoreCompileInputs.cache
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.sourcelink.json
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.dll
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\refint\Final-control-work-on-the-main-block.dll
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.pdb
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\Final-control-work-on-the-main-block.genruntimeconfig.cache
+C:\Users\Mishi\OneDrive\Рабочий стол\EndC\Final-control-work-on-the-main-block\obj\Debug\net8.0\ref\Final-control-work-on-the-main-block.dll
